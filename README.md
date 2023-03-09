@@ -1,4 +1,4 @@
-![Corgi bouncing in a field](https://media.giphy.com/media/l0GtQA2P9WinaBb32/giphy.gif)
+![Corgi bouncing in a field](https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif)
 ### Hello, my name is Michael Rocha! 😁<br/>👨‍🎓👨‍🎓👨‍🎓 Student of Software Engineering at the University of Technology of Paraná.
 
 #
