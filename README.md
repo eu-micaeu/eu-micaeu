@@ -11,5 +11,5 @@
 ### Tecnologias que mais fazem parte do meu GitHub.<br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eu-micaeu&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
-#
+
 ## Site em construção: [Joguinhos](https://www.joguinhos.org)
