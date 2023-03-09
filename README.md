@@ -1,4 +1,5 @@
-### Olá, meu nome é Micael Rocha! 😁
+### Hello, my name is Michael Rocha! 😁<br/>👨‍🎓👨‍🎓👨‍🎓 Student of Software Engineering at the University of Technology of Paraná.
+
 #
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)<br/>
 <br/>
@@ -8,8 +9,9 @@
 #
 ![Micael GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-micaeu&show_icons=true&theme=dark)
 #
-### Tecnologias que mais fazem parte do meu GitHub.<br/><br/>
+### Languages ​​that are most part of my GitHub:<br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eu-micaeu&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
-## Site em construção: [Joguinhos](https://www.joguinhos.org)
+## Website under construction: [Joguinhos](https://www.joguinhos.org)
+
