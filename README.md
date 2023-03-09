@@ -1,3 +1,4 @@
+![Corgi bouncing in a field](https://media.giphy.com/media/l0GtQA2P9WinaBb32/giphy.gif)
 ### Hello, my name is Michael Rocha! 😁<br/>👨‍🎓👨‍🎓👨‍🎓 Student of Software Engineering at the University of Technology of Paraná.
 
 #
@@ -7,6 +8,8 @@
 <br/>
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eu-micaeu)<br/>
 #
+
+
 ![Micael GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-micaeu&show_icons=true&theme=dark)
 #
 ### Languages ​​that are most part of my GitHub:<br/><br/>
