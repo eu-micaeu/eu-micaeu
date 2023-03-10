@@ -1,5 +1,5 @@
 ![Corgi bouncing in a field](https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif)
-### Hello, my name is Michael Rocha! 😁<br/>👨‍🎓👨‍🎓👨‍🎓 Student of Software Engineering at the University of Technology of Paraná.
+### Hello, my name is Micael Rocha! 😁<br/>👨‍🎓👨‍🎓👨‍🎓 Student of Software Engineering at the University of Technology of Paraná.
 
 #
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)<br/>
