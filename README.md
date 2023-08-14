@@ -29,8 +29,6 @@
 <br/>
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/micaelrochas?si=83f1662fd99a4b13)<br/>
 <br/>
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eu-micaeu)<br/>
-
 
 ![Micael GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-micaeu&show_icons=true&theme=dark)
 
