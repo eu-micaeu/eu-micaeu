@@ -1,9 +1,8 @@
 ### Hello, my name is Micael Rocha! 😁<br/>Student of Software Engineering at the University of Technology of Paraná.👨‍🎓
-## Websites under construction: [Joguinhos](https://www.joguinhos.org) / [MyCommiserate](https://www.mycommiserate.com)
 
-<br/>
+### Websites under construction: [Joguinhos](https://www.joguinhos.org) / [MyCommiserate](https://www.mycommiserate.com)
 
-## Technologies I've studied and worked with:
+### Technologies I've studied and worked with:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
