@@ -32,7 +32,9 @@
 
 ![Micael GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-micaeu&show_icons=true&theme=dark)
 
-### Languages ​​that are most part of my GitHub:<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eu-micaeu&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+### Languages ​​that are most part of my GitHub:
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-micaeu&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
