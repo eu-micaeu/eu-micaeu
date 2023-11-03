@@ -1,6 +1,6 @@
 ### Hello, my name is Micael Rocha! 😁<br/>Student of Software Engineering at the University of Technology of Paraná.👨‍🎓
 
-### Websites under construction: [Joguinhos](https://www.joguinhos.org) / [MyCommiserate](https://www.mycommiserate.com) / [TecTec](https://www.tectec.dev)
+### Website under construction: [TecTec](https://www.tectec.dev)
 
 ### Technologies I've studied and worked with:
 
