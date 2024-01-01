@@ -1,4 +1,4 @@
-Hello, my name is Micael Rocha! 😁<br/>Student of Software Engineering at the University of Technology of Paraná.👨‍🎓
+Hello, my name is Micael Ribeiro Rocha! 😁<br/>Student of Software Engineering at the University of Technology of Paraná.👨‍🎓<br/>Looking for a better way to develop my logical reasoning.
 
 Website under construction: [TecTec](https://www.tectec.dev)
 
