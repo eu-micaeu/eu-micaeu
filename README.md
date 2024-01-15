@@ -1,5 +1,9 @@
-Hello, my name is Micael Ribeiro Rocha! 😁<br/>Student of Software Engineering at the University of Technology of Paraná.👨‍🎓<br/>Looking for a better way to develop my logical reasoning.
-
+Greetings! I'm Micael Ribeiro Rocha, a passionate and ambitious 19-year-old Software Engineering student at the University of Technology of Paraná. 👨‍🎓
+<br>
+<br>
+I am on the lookout for exciting opportunities to enhance my logical reasoning skills and contribute to innovative projects. Eager to delve into the dynamic world of software development🚀
+<br>
+<br>
 Website under construction: [TecTec](https://www.tectec.dev)
 
 Technologies I've studied and worked with:
