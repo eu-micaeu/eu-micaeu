@@ -26,16 +26,24 @@ Technologies I've studied and worked with:
 </div>
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)<br/>
+<p align="center">
+  <img height="36em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/"/>
+</p>
+
+<p align="center">
+  <img height="36em" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/micaelrochas?si=83f1662fd99a4b13">
+</p>
+
 <br/>
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/micaelrochas?si=83f1662fd99a4b13)<br/>
 <br/>
 
-![Micael GitHub stats](https://github-readme-stats.vercel.app/api?username=eu-micaeu&show_icons=true&theme=dark)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eu-micaeu&show_icons=true&theme=dark"/>
+</p>
 
-### Languages ​​that are most part of my GitHub:
-<div>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-micaeu&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</p>
+
 
 
