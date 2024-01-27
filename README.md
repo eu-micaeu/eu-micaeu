@@ -29,10 +29,6 @@ Technologies I've studied and worked with:
   <img height="36em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/"/>
 </p>
 
-<p align="center">
-  <img height="36em" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/micaelrochas?si=83f1662fd99a4b13">
-</p>
-
 <br/>
 <br/>
 
