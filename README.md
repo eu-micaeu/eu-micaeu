@@ -26,7 +26,7 @@ Technologies I've studied and worked with:
 <br><br>
 
 <p align="center">
-  <img height="36em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/"/>
+  <img height="36em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]" onclick="window.location.href='https://www.linkedin.com/in/micael-rocha-84a49a205/'">
 </p>
 
 <br/>
