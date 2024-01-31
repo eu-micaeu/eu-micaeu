@@ -23,12 +23,6 @@ Technologies I've studied and worked with:
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
 </div>
-<br><br>
-
-<p align="center">
-  <img height="36em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]" onclick="window.location.href='https://www.linkedin.com/in/micael-rocha-84a49a205/'">
-</p>
-
 <br/>
 <br/>
 
