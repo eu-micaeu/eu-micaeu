@@ -1,3 +1,5 @@
+  <img src="https://media.tenor.com/ttMsN_OQVv0AAAAi/luffy-gear-5.gif" height="200" width="200" alt="Descrição do GIF" style="border-radius: 50%;">
+
 Greetings! I'm Micael Ribeiro Rocha, a passionate and ambitious 20-year-old Software Engineering student at the University of Technology of Paraná. 👨‍🎓
 <br>
 <br>
