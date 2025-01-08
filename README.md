@@ -3,9 +3,6 @@ Greetings! I'm Micael Ribeiro Rocha, a passionate and ambitious 20-year-old Soft
 <br>
 I am on the lookout for exciting opportunities to enhance my logical reasoning skills and contribute to innovative projects. Eager to delve into the dynamic world of software development🚀
 <br>
-<br>
-Website under construction: [Portfolio](https://micaelrocha.com/)
-
 <br/>
 <hr>
 
